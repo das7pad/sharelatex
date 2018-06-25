@@ -9,6 +9,7 @@
     "east": "0.5.7",
     "east-mongo": "0.3.3",
     "grunt-shell": "^1.1.1",
+    "knox": "~0.8.9",
     "load-grunt-config": "^0.19.2",
     "lodash": "^3.0.0",
     "mongodb": "^2.2.34",
@@ -26,7 +27,6 @@
     "grunt-execute": "~0.1.5",
     "grunt-available-tasks": "~0.4.1",
     "grunt-concurrent": "~0.4.3",
-    "grunt-contrib-coffee": "~0.10.1",
-    "knox": "~0.8.9"
+    "grunt-contrib-coffee": "~0.10.1"
   }
 }
