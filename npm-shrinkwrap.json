@@ -589,6 +589,10 @@
       "from": "rimraf@>=2.2.6 <2.3.0",
       "resolved": "https://registry.npmjs.org/rimraf/-/rimraf-2.2.8.tgz"
     },
+    "semver": {
+      "version": "2.2.1",
+      "resolved": "https://registry.npmjs.org/semver/-/semver-2.2.1.tgz"
+    },
     "settings-sharelatex": {
       "version": "1.0.0",
       "from": "git+https://github.com/sharelatex/settings-sharelatex.git",

@@ -15,6 +15,7 @@
     "mongojs": "2.4.0",
     "redis": "^2.6.2",
     "rimraf": "~2.2.6",
+    "semver": "~2.2.1",
     "settings-sharelatex": "git+https://github.com/sharelatex/settings-sharelatex.git",
     "underscore": "^1.7.0"
   },
@@ -26,7 +27,6 @@
     "grunt-available-tasks": "~0.4.1",
     "grunt-concurrent": "~0.4.3",
     "grunt-contrib-coffee": "~0.10.1",
-    "semver": "~2.2.1",
     "knox": "~0.8.9"
   }
 }
